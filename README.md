@@ -22,7 +22,7 @@ Install the required dependencies:
 
 Copy code
 pip install selenium
-Download Chrome WebDriver and Google Chrome for testing and ensure it is in your system's PATH and are compatible with each other.
+Create a 'binaries' folder and download Chrome WebDriver and Google Chrome for testing in it and ensure they are in your system's PATH and compatible.
 
 Usage
 Update the PROMISED_DOWN and PROMISED_UP variables in main.py to set your desired threshold for internet speed.
